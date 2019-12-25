@@ -1,0 +1,210 @@
+.stacked-group1 {
+	height: 350px;
+    width: 1118px;
+    position: relative;
+    top: 100px;
+    left: 80px;
+}
+
+.its-personalised-f {
+	height: 48px;
+    width: 835px;
+    position: relative;
+    left: 138.5px;
+	color: #0F1E36;
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 48px;
+    text-align: center;
+}
+
+.line-4 {
+	box-sizing: border-box;
+	height: 2px;
+    width: 758px;
+    position: absolute;
+    top: 145px;
+    left: 165px;
+	border: 2px solid #25D782;
+}
+
+.left-div1 {
+	height: 200px;
+    width: 360px;
+    position: relative;
+    top: 24px;
+    display: inline-block;
+}
+
+.circle-1 {
+	box-sizing: border-box;
+	height: 64px;
+    width: 64px;
+    position: relative;
+    left: 150px;
+	border: 2px solid #25D782;
+	border-radius: 37.5px;
+	background-color: #FFFFFF;
+}
+
+.one {
+	height: 38px;
+    width: 12px;
+    position: relative;
+    left: 22px;
+    top: 11px;
+	color: #29CC85;
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: -1.5px;
+	line-height: 38px;
+}
+
+.sign-up1 {
+	height: 26px;
+	width: 360px;
+    color: #0F1E36;
+    position: relative;
+    top: 32px;
+    left: -10px;
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 0.4px;
+	line-height: 26px;
+}
+
+.your-name-and-conta {
+	height: 52px;
+    width: 320px;
+    position: relative;
+    top: 25px;
+    left: -125px;
+	color: #0F1E36;
+	font-size: 14px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.middle-div {
+	height: 200px;
+    width: 360px;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    display: inline-block;
+}
+
+.circle-2 {
+	box-sizing: border-box;
+	height: 64px;
+    width: 64px;
+    position: relative;
+    left: 150px;
+	border: 2px solid #25D782;
+	border-radius: 37.5px;
+	background-color: #FFFFFF;
+}
+
+.two {
+	height: 38px;
+    width: 12px;
+    position: relative;
+    left: 22px;
+    top: 11px;
+	color: #29CC85;
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: -1.5px;
+	line-height: 38px;
+}
+
+.speak-to-an-expert {
+	height: 26px;
+    width: 360px;
+    position: relative;
+    top: 30px;
+    left: -150px;
+	color: #0F1E36;
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 0.4px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.an-advisor-will-get {
+	height: 78px;
+    width: 360px;
+    position: relative;
+    top: 25px;
+    left: -152px;
+	color: #0F1E36;
+	font-size: 14px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.right-div1 {
+	height: 200px;
+    width: 360px;
+    position: relative;
+    top: 24px;
+    left: 20px;
+    display: inline-block;
+}
+
+.circle-3 {
+	box-sizing: border-box;
+	height: 64px;
+    width: 64px;
+    position: relative;
+    left: 150px;
+	border: 2px solid #25D782;
+	border-radius: 37.5px;
+	background-color: #FFFFFF;
+}
+
+.three {
+	height: 38px;
+    width: 12px;
+    position: relative;
+    left: 22px;
+    top: 11px;
+	color: #29CC85;
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: -1.5px;
+	line-height: 38px;
+}
+
+.start-investing {
+	height: 26px;
+    width: 360px;
+    position: relative;
+    top: 30px;
+    left: -150px;
+	color: #0F1E36;
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 0.4px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.well-create-an-acco{
+	height: 78px;
+    width: 360px;
+    position: relative;
+    top: 25px;
+    left: -152px;
+	color: #0F1E36;
+	font-size: 14px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.rectangle-7 {
+	height: 1426px;
+	width: 1440px;
+	background: linear-gradient(0.32deg, #FDFDFD 0%, #FFFFFF 32.38%, #F9F9F9 100%);
+}

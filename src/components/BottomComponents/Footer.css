@@ -1,0 +1,193 @@
+.featured {
+	height: 224px;
+    widows: 100%;
+    position: relative;
+    top: 160px;
+	background-color: #0D1A30;
+}
+
+.featured-in {
+	height: 47px;
+    width: 570px;
+    position: relative;
+    top: 73px;
+    left: 27%;
+	color: rgba(255,255,255,0.6);
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1.8px;
+	line-height: 16px;
+	text-align: center;
+}
+
+.featured-channel {
+	height: 50px;
+    width: 1081px;
+    position: relative;
+    top: 40px;
+    left: 6rem;
+}
+
+.eco-times {
+	height: 50px;
+    width: 265px;
+    
+}
+
+.Lmint {
+	height: 50px;
+    width: 85px;
+    position: relative;
+    left: 24px;
+}
+
+.ndtv{
+	height: 50px;
+    width: 108px;
+    position: relative;
+    left: 48px;
+}
+
+.bl {
+	height: 50px;
+    width: 163px;
+    position: relative;
+    left: 72px;
+}
+
+.logo-bw {
+	height: 50px;
+    width: 125px;
+    position: relative;
+    left: 96px;
+}
+
+.bs {
+	height: 50px;
+    width: 215px;
+    position: relative;
+    left: 120px;
+}
+
+.contact {
+	height: 300px;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    background-color: #0F1E36;
+
+}
+
+.stay-informed {
+	height: 200px;
+    width: 350px;
+    position: relative;
+    top: 15px;
+    left: 150px;
+    display:inline-block;
+}
+
+.stayInformed {
+	height: 20px;
+    width: 300px;
+    position: relative;
+    left: 0;
+	color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: underline;
+	font-weight: bold;
+	line-height: 17px;
+}
+
+.insights{
+	height: 20px;
+	width: 280px;
+	opacity: 0.8;
+	color: #FFFFFF;
+	font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+}
+
+.insights:hover{
+    color: rgb(179, 124, 6);
+    text-decoration: none;
+}
+
+.get-touch{
+    height: 200px;
+    width: 350px;
+    position: relative;
+    top: 70px;
+    left: 160px;
+    display:inline-block;
+}
+
+.get-in-touch {
+	height: 20px;
+    width: 300px;
+    position: relative;
+    left: 0;
+	color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: underline;
+	font-weight: bold;
+	line-height: 17px;
+}
+
+.fa-phone-alt{
+    height: 30px;
+    width: 200px;
+    opacity: 0.8;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 15px;
+
+}
+.fa-envelope{
+    height: 20px;
+    width: 200px;
+    opacity: 0.8;
+    color: #FFFFFF;
+    font-size: 16px;
+    
+}
+
+.fa-facebook-f,
+.fa-linkedin-in,
+.fa-twitter,
+.fa-instagram{
+    height: 20px;
+    width: 40px;
+    color: #FFFFFF;
+    font-size: 18px;
+    display: inline-block;
+}
+.get-app{
+    height: 200px;
+    width: 350px;
+    position: relative;
+    top: 25px;
+    left: 170px;
+    display:inline-block;
+}
+
+ .get-the-app{   
+    height: 20px;
+    width: 300px;
+    position: relative;
+    left: 0;
+	color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: underline;
+	font-weight: bold;
+	line-height: 17px;
+}
+
+.fa-apple, .fa-android{
+    height: 35px;
+    width: 200px;
+    opacity: 0.8;
+    color: #FFFFFF;
+    font-size: 16px;
+}

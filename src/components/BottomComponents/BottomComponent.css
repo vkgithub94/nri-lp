@@ -1,0 +1,25 @@
+.get-started2 {
+	height: 338px;
+    width: 100%;
+    position: relative;
+    top: 800px;
+    background-color: #2E3092;
+}
+
+.get-started-today {
+	height: 48px;
+    width: 835px;
+    position: relative;
+    top: 88px;
+    left: 200px;
+	color: #FFFFFF;
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 48px;
+    text-align: center;
+}
+
+.signup-2{
+    position: relative;
+    top: -380px;
+}

@@ -1,0 +1,93 @@
+
+.testimonial-bg-lines {
+	height: 730px;
+    width: 100%px;  
+    position: relative;
+    top: 750px;
+    background-image: url('../../imgs/testimonial-bg-lines.svg');
+}
+
+.number {
+	height: 82px;
+    width: 1119px;
+    position: relative;
+    top: 96px;
+    left: 80px;
+}
+
+.₹-500-cr {
+	height: 58px;
+	width: 360px;
+	color: #22C979;
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 54px;
+    text-align: center;
+}
+
+.invested {
+	height: 18px;
+    width: 94px;
+    position: relative;
+    top: -19px;
+    left: 130px;
+	color: #22C979;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 1.3px;
+	line-height: 18px;
+    text-align: center;
+}
+
+.₹-6-cr {
+	height: 58px;
+    width: 360px;
+    position: relative;
+    top: -98px;
+    left: 400px;
+	color: #22C979;
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 54px;
+    text-align: center;
+}
+
+.commissions-saved {
+	height: 18px;
+    width: 201px;
+    position: relative;
+    top: -117px;
+    left: 480px;
+	color: #22C979;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 1.3px;
+	line-height: 18px;
+    text-align: center;
+}
+
+.t-20-k {
+	height: 58px;
+    width: 310px;
+    position: relative;
+    top: -196px;
+    left: 800px;
+	color: #22C979;
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 54px;
+    text-align: center;
+}
+
+.users {
+	height: 18px;
+    width: 60px;
+    position: relative;
+    top: -215px;
+    left: 920px;
+	color: #22C979;
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 1.3px;
+	line-height: 18px;
+}

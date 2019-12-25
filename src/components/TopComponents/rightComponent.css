@@ -1,0 +1,30 @@
+.right_div{
+    width: 436px;
+    height: 480px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 755px;
+    display: inline-block;
+}
+
+.right_div{
+    background-image: url('../../imgs/img-guy.svg');
+    background-position-x: 40px;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    background-position: relative;
+    overflow: hidden;
+}
+
+.triangle{
+    margin-top: 110px;
+    margin-right: 500px;
+}
+
+@media screen and (max-width: 535px) {
+	.right_div{
+        margin-right: 10px;
+		margin-left: 10px;
+		float: bottom;
+	  }
+  }

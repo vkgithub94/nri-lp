@@ -1,0 +1,52 @@
+.left_component{
+    height: 350px;
+	width: 520px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 75px;
+    overflow: hidden;
+	display: inline-block;
+}
+
+.easy-investing-for-n {
+	height: 20px;
+	width: 400px;
+	color: rgba(75,87,94,0.6);
+	font-size: 16px;
+	font-weight: 600;
+	letter-spacing: 1.01px;
+	line-height: 16px;
+	margin-left: 0px;
+}
+
+.make-better-investme {
+	height: 96px;
+	width: 515px;
+	color: #0F1E36;
+	font-size: 42px;
+	font-weight: 600;
+	line-height: 48px;
+	margin-left: 0px;
+}
+
+.stacked-group {
+	height: 170px;
+	width: 350px;
+	padding-left: 0px;
+}
+
+ul li{
+	height: 50px;
+	width: 500px;
+	position: relative;
+	color: #0F1E36;
+	font-size: 16px;
+	line-height: 28px;
+}
+
+@media screen and (max-width: 535px) {
+	.left_div{
+        margin-left: 20px;
+        position: absolute;
+    }
+  }
